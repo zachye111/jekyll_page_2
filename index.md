@@ -1,14 +1,14 @@
-## Welcome to GitHub Pages
+## Create Task
 
-You can use the [editor on GitHub](https://github.com/zachye111/jekyll_page_2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+GitHub page that documents intended Create Task project for College Board, snippets, and links to Runtime.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Intended Create Task Project
 
-### Markdown
+My intended create task project is a memorization game, where a sequnece of colors is shown and the user must copy the same sequence. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Snippets
 
-```markdown
+```
 Syntax highlighted code block
 
 # Header 1
@@ -26,12 +26,28 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- this satisfies the college board requirements because
 
-### Jekyll Themes
+```
+Syntax highlighted code block
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zachye111/jekyll_page_2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Header 1
+## Header 2
+### Header 3
 
-### Support or Contact
+- Bulleted
+- List
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+- this satisfies the college board requirements because
+
+### Links to Runtime
+
+You can access my Create Task page for college board here: [link](https://github.com/zachye111/zach_individual_tri3).
