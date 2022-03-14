@@ -6,6 +6,8 @@ GitHub page that documents intended Create Task project for College Board, snipp
 
 My intended create task project is a memorization game, where a sequnece of colors is shown and the user must copy the same sequence. 
 
+It can be seen [here] (https://replit.com/join/tfgugruuyu-zachye111)
+
 ### Snippets
 
 ```
